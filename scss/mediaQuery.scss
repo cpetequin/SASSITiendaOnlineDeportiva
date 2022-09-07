@@ -1,0 +1,43 @@
+@media only screen and (max-width: 768px) {
+	.cardProducto3 {
+		display: none;
+	}
+	.cardProducto4 {
+		display: none;
+	}
+	.cardProducto7 {
+		display: none;
+	}
+	.cardProducto8 {
+		display: none;
+	}
+	footer {
+		li {
+			display: none;
+		}
+	}
+	.busqueda {
+		display: none;
+	}
+	.navbar-brand {
+		width: 50%;
+	}
+	.pieCentroDeAtencion {
+		padding-left: 45px;
+	}
+	.derechosReservados {
+		text-align: left;
+		padding-left: 45px;
+		padding-top: 35px;
+		font-weight: bold;
+	}
+	.cardProducto1 {
+		width: 50%;
+	}
+	.cardProducto2 {
+		width: 50%;
+	}
+	.rrss {
+		padding-left: 45px;
+	}
+}

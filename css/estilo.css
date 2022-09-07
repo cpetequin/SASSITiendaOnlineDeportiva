@@ -1,0 +1,108 @@
+header img {
+  max-width: 10%;
+  max-height: 10%; }
+
+.paddingDesbor {
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-right: 0px; }
+
+.encabezado1 {
+  font-style: Normal;
+  font-family: Arial, Times New Roman, sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: DimGray;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 10px 0px white inset; }
+
+.encabezado2 {
+  font-style: Normal;
+  font-family: Arial, Times New Roman, sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: DimGray;
+  margin-bottom: 30px;
+  box-shadow: 0px 0px 10px 0px white inset;
+  margin-top: 30px; }
+
+.card-body {
+  width: 100%;
+  text-align: center;
+  font-style: Normal;
+  font-family: Arial, Times New Roman, sans-serif;
+  font-size: 0.7rem;
+  color: DimGray; }
+
+.card-title {
+  width: 100%;
+  text-align: center;
+  font-style: Normal;
+  font-family: Arial, Times New Roman, sans-serif;
+  font-size: 0.7rem;
+  color: DimGray; }
+
+.promocionesBancarias {
+  padding-right: 0px; }
+  .promocionesBancarias img {
+    width: 100%;
+    margin-top: 30px; }
+
+.pieNosotros {
+  list-style: none;
+  color: white;
+  text-decoration: none; }
+
+.pieInformacion {
+  list-style: none;
+  color: white;
+  text-decoration: none; }
+
+.pieCentroDeAtencion {
+  list-style: none;
+  color: white;
+  text-decoration: none; }
+  .pieCentroDeAtencion a {
+    list-style: none;
+    color: white;
+    text-decoration: none; }
+
+.derechosReservados {
+  color: white;
+  text-align: center; }
+
+@media only screen and (max-width: 768px) {
+  .cardProducto3 {
+    display: none; }
+  .cardProducto4 {
+    display: none; }
+  .cardProducto7 {
+    display: none; }
+  .cardProducto8 {
+    display: none; }
+  footer li {
+    display: none; }
+  .busqueda {
+    display: none; }
+  .navbar-brand {
+    width: 50%; }
+  .pieCentroDeAtencion {
+    padding-left: 45px; }
+  .derechosReservados {
+    text-align: left;
+    padding-left: 45px;
+    padding-top: 35px;
+    font-weight: bold; }
+  .cardProducto1 {
+    width: 50%; }
+  .cardProducto2 {
+    width: 50%; }
+  .rrss {
+    padding-left: 45px; } }
